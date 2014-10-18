@@ -68,7 +68,7 @@
   </maxp>
 
   <OS_2>
-    <version value="4"/>
+    <version value="1"/>
     <xAvgCharWidth value="1000"/>
     <usWeightClass value="500"/>
     <usWidthClass value="5"/>
@@ -111,11 +111,6 @@
     <usWinDescent value="65104"/>
     <ulCodePageRange1 value="00000000 00000000 00000000 00000001"/>
     <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
-    <sxHeight value="0"/>
-    <sCapHeight value="0"/>
-    <usDefaultChar value="0"/>
-    <usBreakChar value="32"/>
-    <usMaxContex value="1"/>
   </OS_2>
 
   <hmtx>
