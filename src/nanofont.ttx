@@ -73,16 +73,16 @@
     <usWeightClass value="500"/>
     <usWidthClass value="5"/>
     <fsType value="0"/>
-    <ySubscriptXSize value="650"/>
-    <ySubscriptYSize value="700"/>
+    <ySubscriptXSize value="0"/>
+    <ySubscriptYSize value="0"/>
     <ySubscriptXOffset value="0"/>
-    <ySubscriptYOffset value="140"/>
-    <ySuperscriptXSize value="650"/>
-    <ySuperscriptYSize value="700"/>
+    <ySubscriptYOffset value="0"/>
+    <ySuperscriptXSize value="0"/>
+    <ySuperscriptYSize value="0"/>
     <ySuperscriptXOffset value="0"/>
-    <ySuperscriptYOffset value="480"/>
-    <yStrikeoutSize value="49"/>
-    <yStrikeoutPosition value="258"/>
+    <ySuperscriptYOffset value="0"/>
+    <yStrikeoutSize value="0"/>
+    <yStrikeoutPosition value="0"/>
     <sFamilyClass value="0"/>
     <panose>
       <bFamilyType value="0"/>
