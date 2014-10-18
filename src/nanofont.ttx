@@ -51,17 +51,17 @@
   <maxp>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="0x10000"/>
-    <numGlyphs value="1"/>
-    <maxPoints value="1"/>
-    <maxContours value="1"/>
+    <numGlyphs value="0"/>
+    <maxPoints value="0"/>
+    <maxContours value="0"/>
     <maxCompositePoints value="0"/>
     <maxCompositeContours value="0"/>
-    <maxZones value="2"/>
+    <maxZones value="0"/>
     <maxTwilightPoints value="0"/>
-    <maxStorage value="1"/>
-    <maxFunctionDefs value="1"/>
+    <maxStorage value="0"/>
+    <maxFunctionDefs value="0"/>
     <maxInstructionDefs value="0"/>
-    <maxStackElements value="1"/>
+    <maxStackElements value="0"/>
     <maxSizeOfInstructions value="0"/>
     <maxComponentElements value="0"/>
     <maxComponentDepth value="0"/>
