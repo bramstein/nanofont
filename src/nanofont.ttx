@@ -118,9 +118,9 @@
 
   <cmap>
     <tableVersion version="0"/>
-    <cmap_format_4 platformID="0" platEncID="3" language="0">
-      <map code="0x0" name="notdef"/>
-      <map code="0x61" name="a"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="notdef"/><!-- &lt;control> -->
+      <map code="0x61" name="a"/><!-- SPACE -->
     </cmap_format_4>
   </cmap>
 
