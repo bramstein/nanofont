@@ -19,8 +19,8 @@
     <modified value="Fri Oct 17 07:55:23 2014"/>
     <xMin value="0"/>
     <yMin value="0"/>
-    <xMax value="1024"/>
-    <yMax value="1024"/>
+    <xMax value="0"/>
+    <yMax value="0"/>
     <macStyle value="00000000 00000000"/>
     <lowestRecPPEM value="0"/>
     <fontDirectionHint value="2"/>
