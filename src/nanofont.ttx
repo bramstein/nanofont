@@ -145,12 +145,8 @@
   </glyf>
   
   <name>
-    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
-      a      
-    </namerecord>
-    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
-      
-    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">@</namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">@</namerecord>
   </name>
 
 
