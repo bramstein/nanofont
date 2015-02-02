@@ -4,7 +4,7 @@ all: dist base64
 dist:
 	mkdir -p dist
 	ttx -o dist/nanofont.ttf src/nanofont.ttx
-	ttf2woff -v -O dist/nanofont.ttf dist/nanofont.woff
+	sfnt2woff-zopfli dist/nanofont.ttf
 	woff2_compress dist/nanofont.ttf
 
 base64:
